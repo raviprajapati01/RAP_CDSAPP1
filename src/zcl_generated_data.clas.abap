@@ -73,5 +73,6 @@ CLASS zcl_generated_data IMPLEMENTATION.
      COMMIT WORK.
 
      out->write( 'Travel and booking demo data inserted.' ).
+          out->write( 'Travel and booking demo data inserted.' ).
   ENDMETHOD.
 ENDCLASS.
